@@ -1,0 +1,31 @@
+id , name, stock, price
+S01,"Lifeboy soap",40,10
+S02,"Cooking oil",400,40
+S03,"Lamp oil",180,15
+S04,"Washing powder - Nirma",25,35
+S05,"Washing liquid - Sun",89,10
+S06,"Candle sticks",10,40
+S07,"Goodnight liquid",120,15
+S08,"Goodnight liquid - Advance",160,35
+S09,"Parle G Biscuit",30,78
+S10,"Britannia Bisuits",28,23
+S11,"Maggy masala",26,56
+S12,"Maggi masala - Chicken",38,12
+S13,"Curry Masala",24,45
+S14,"Rasoi bhuna masala",45,78
+S15,"Lays chips",30,32
+S16,"Bingo - mad angles",32,43
+S17,"Cheese and Onion - Bingo",36,12
+S18,"Bisleri water can",40,15
+S19,"Mineral water can - 20 L",65,35
+S20,"Kurkure magic masala",22,78
+S21,"Kurkure tango and chilli",42,23
+S22,"Maggi ketchup",82,56
+S23,"Kissan ketchup",74,40
+S24,"ITC Chicken nuggets",95,15
+S25,"ITC master chef - finger chips",110,35
+S26,"Bourbone biscuits",62,78
+S27,"Oreo biscuits",46,21
+S28,"Karachi cookies",90,64
+S29,"Sunflower refined oil",110,89
+S30,"Odomos cream",128,32
